@@ -674,7 +674,7 @@ h5{
     flex-wrap: wrap;
   }
   .line {
-    width: 95vw;
+    width: 100%;
   }
   .icons-footer img {
     width: 30px;
