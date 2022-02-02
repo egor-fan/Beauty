@@ -708,5 +708,14 @@ h5{
     padding-left: 10px;
     padding-right: 10px;
 }
+.icon1{
+    display: none;
+  }
+.icon2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+  }
 
 }
